@@ -1,7 +1,7 @@
 # Linklist
 
 > Project built using basic Ruby.
-  This is simple linear linklist assignment in repl
+  This is simple linear linklist assignment from repl
 
 ## Built With
 - Ruby
